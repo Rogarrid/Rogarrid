@@ -12,7 +12,7 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="musical_note" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b5.png">🏔</g-emoji> love nature and sports</p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="raised_hands" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64c.png">🙌</g-emoji> Working with C, C++, Git, JavaScript and shell </p>
+<p dir="auto"><g-emoji class="g-emoji" alias="raised_hands" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64c.png">🙌</g-emoji> working with C, C++, Git, JavaScript and shell </p>
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> reading a book</p>
