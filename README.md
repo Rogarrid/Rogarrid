@@ -26,14 +26,8 @@
 
 <div align="center" dir="auto">  
 <h3 dir="auto"><a id="user-content-42s-projects-already-graded" class="anchor" aria-hidden="true" href="#42s-projects-already-graded"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>42's Projects Already Graded</h3>
-<p dir="auto"><a href="https://github.com/nandajfa/libft"><img src="/nandajfa/nandajfa/raw/main/src/libft1.png" alt="" style="max-width: 100%;"></a>
-<a href="https://github.com/nandajfa/get_next_line"><img src="/nandajfa/nandajfa/raw/main/src/gnl.png" alt="" style="max-width: 100%;"></a>
-<a href="https://github.com/nandajfa/ft_printf"><img src="/nandajfa/nandajfa/raw/main/src/ft_printfe.png" alt="" style="max-width: 100%;"></a>
-<a href="https://github.com/nandajfa/Born2beRoot"><img src="/nandajfa/nandajfa/raw/main/src/born2beroote.png" alt="" style="max-width: 100%;"></a>
-<a href="https://github.com/nandajfa/so_long"><img src="/nandajfa/nandajfa/raw/main/src/so_longm.png" alt="" style="max-width: 100%;"></a>
-<a href="https://github.com/nandajfa/minitalk"><img src="/nandajfa/nandajfa/raw/main/src/minitalkm.png" alt="" style="max-width: 100%;"></a>
-<a href="https://github.com/nandajfa/push_swap"><img src="/nandajfa/nandajfa/raw/main/src/push.png" alt="" style="max-width: 100%;"></a>
-<a href="https://github.com/nandajfa/minishell"><img src="/nandajfa/nandajfa/raw/main/src/minishell.png" alt="" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://github.com/Rogarrid/School_42_Malaga_Cursus/tree/main/libft"><img src="[/nandajfa/nandajfa/raw/main/src/libft1.png](https://github.com/Rogarrid/Image/blob/main/libft1.png)" alt="" style="max-width: 100%;"></a>
+<a href="https://github.com/Rogarrid/School_42_Malaga_Cursus/tree/main/printf"><img src="https://github.com/Rogarrid/Image/blob/main/ft_printfe.png" alt="" style="max-width: 100%;"></a>
  </div>
 
 <div align="center" dir="auto">  
