@@ -18,7 +18,6 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> reading a book</p>
 </li>
 </ul>
-<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/20afda8e5b1d20b25965bc48b4f85964fd2ebaa7299d6ec138ec92bf2c2bc259/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6e616e64616a6661266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/20afda8e5b1d20b25965bc48b4f85964fd2ebaa7299d6ec138ec92bf2c2bc259/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6e616e64616a6661266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="rogarrid" data-canonical-src="https://komarev.com/ghpvc/?username=rogarrid&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
 <h2 dir="auto"></h2>
 
 <div align="center" dir="auto">  
