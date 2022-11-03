@@ -1,5 +1,5 @@
 
-<p dir="auto"><g-emoji class="g-emoji" alias="raising_hand_woman" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2640.png">🙋‍♀️</g-emoji> About Me</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="raising_hand_woman" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2640.png">🙋</g-emoji> About Me</p>
 
 <ul dir="auto">
 <li>
