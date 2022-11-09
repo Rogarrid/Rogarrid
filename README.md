@@ -13,10 +13,7 @@
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="raised_hands" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64c.png">🙌</g-emoji> working with C, C++, Git, JavaScript and Shell </p>
-</li>
-<li>
-<p dir="auto"><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> reading a book</p>
-</li>
+ </li>
 </ul>
 <h2 dir="auto"></h2>
 
