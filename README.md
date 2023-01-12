@@ -22,6 +22,7 @@
 Projects of Cursus 42 Malaga already qualified 👩🏻‍💻</h3>
 <p dir="auto"><a href="https://github.com/Rogarrid/School_42_Malaga_Cursus/tree/main/libft"><img src="https://github.com/Rogarrid/Image/blob/main/libft1.png" alt="" style="max-width: 100%;"></a>
 <a href="https://github.com/Rogarrid/School_42_Malaga_Cursus/tree/main/printf"><img src="https://github.com/Rogarrid/Image/blob/main/ft_printfe.png" alt="" style="max-width: 100%;"></a>
+ <a href="https://github.com/Rogarrid/School_42_Malaga_Cursus/tree/main/get_next_line"><img src="https://github.com/Rogarrid/Image/blob/main/gnl.png" alt="" style="max-width: 100%;"></a>
  </div>
 
 <div align="center" dir="auto"> 
