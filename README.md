@@ -2,18 +2,34 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="raising_hand_woman" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2640.png">🙋</g-emoji> About Me</p>
 
 <ul dir="auto">
+ 
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> I'm currently learning about C for the projects done at School 42.</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> I am a Junior Developer.
+</p>
 </li>
-<li>
-<p dir="auto"><g-emoji class="g-emoji" alias="nerd_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f913.png">🤓</g-emoji> always learning something new</p>
+ 
+ <li>
+<p dir="auto"><g-emoji class="g-emoji" alias="nerd_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f913.png">🌐</g-emoji> I do Frontend projects in HTML, CSS, Bootstrap and Javascript.</p>
 </li>
+ 
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="musical_note" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b5.png">🏔</g-emoji> love nature and sports</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="nerd_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f913.png">🥷</g-emoji> The Backend I develop in Node.js.</p>
 </li>
+ 
+ <li>
+<p dir="auto"><g-emoji class="g-emoji" alias="nerd_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f913.png">👩‍💻</g-emoji> I'm also learning about C for the projects done at Escuela 42.</p>
+</li>
+ 
+ 
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="raised_hands" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64c.png">🙌</g-emoji> working with C, C++, Git, JavaScript and Shell </p>
- </li>
+<p dir="auto"><g-emoji class="g-emoji" alias="nerd_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f913.png">🤓</g-emoji> I always find myself learning something new</p>
+</li>
+ 
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="musical_note" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b5.png">🏔</g-emoji> I love nature and sports
+</p>
+</li>
+ 
 </ul>
 <h2 dir="auto"></h2>
 
