@@ -13,7 +13,7 @@
 </li>
  
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="nerd_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f913.png">🥷</g-emoji> The Backend I develop in Node.js.</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="nerd_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f913.png">🦸🏼</g-emoji> The Backend I develop in Node.js.</p>
 </li>
  
  <li>
