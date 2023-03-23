@@ -4,7 +4,7 @@
 <ul dir="auto">
  
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> I am a Junior Developer.
+<p dir="auto"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> I am a Full-Stack Developer.
 </p>
 </li>
  
