@@ -16,6 +16,10 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="nerd_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f913.png">🕵️</g-emoji> The Backend I develop in Node.js.</p>
 </li>
  
+  <li>
+<p dir="auto"><g-emoji class="g-emoji" alias="nerd_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f913.png">💡</g-emoji> I have experience with MySQL and MongoDB, I have also worked with APIs.</p>
+</li>
+ 
  <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="nerd_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f913.png">👩‍💻</g-emoji> I'm also learning about C for the projects done at Escuela 42.</p>
 </li>
