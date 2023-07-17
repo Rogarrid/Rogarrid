@@ -9,7 +9,7 @@
 </li>
  
  <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="nerd_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f913.png">🌐</g-emoji> I do Frontend projects in HTML, CSS, BootStrap, JavaScript and Jquery.</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="nerd_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f913.png">🌐</g-emoji> I do Frontend projects in HTML, CSS, BootStrap, JavaScript, React and Jquery.</p>
 </li>
  
 <li>
