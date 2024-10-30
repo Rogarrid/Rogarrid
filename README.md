@@ -4,7 +4,13 @@
 <ul dir="auto">
  
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> I am a Full-Stack Developer.
+<p dir="auto"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> I am a Full-Stack Developer currently working with cutting-edge technologies like Node.js, .NET, TypeScript, Docker, GraphQL, Nest.js, Moleculer, PostgreSQL, and React.
+</p>
+</li>
+
+<li>
+<p dir="auto">  <g-emoji class="g-emoji" alias="detective" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f575.png">🕵️</g-emoji> On the Backend, I develop robust applications with Node.js, implementing distributed services and optimizing performance with databases like PostgreSQL, MySQL, Firebase, and MongoDB.
+
 </p>
 </li>
  
