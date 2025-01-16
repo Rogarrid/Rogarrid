@@ -82,13 +82,13 @@ Projects of Cursus 42 Malaga already qualified 👩🏻‍💻</h3>
 
 <ul dir="auto">
   <li>
-    <p dir="auto"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> I am a Full-Stack Developer currently working at Alten since January 2024.</p>
+    <p dir="auto"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> I have been working in the programming field as a Full-Stack Developer since 2022, and I have been part of Alten since January 2024.</p>
   </li>
   <li>
-    <p dir="auto"><g-emoji class="g-emoji" alias="detective" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f575.png">🕵️</g-emoji> My expertise lies in creating and enhancing systems using microservice architectures with technologies like Node.js, Express.js, TypeScript, Nest.js, Moleculer, and GraphQL.</p>
+    <p dir="auto"><g-emoji class="g-emoji" alias="detective" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f575.png">🕵️</g-emoji> My expertise includes developing and improving software solutions with technologies such as Node.js, Express.js, TypeScript, Nest.js, Moleculer, and GraphQL, adapting to various architectural patterns including microservices.</p>
   </li>
   <li>
-    <p dir="auto"><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> I specialize in distributed services, backend performance optimization, and scalability using databases such as PostgreSQL, MySQL, Firebase, and MongoDB, along with container orchestration via Docker.</p>
+    <p dir="auto"><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> I have experience working with databases like PostgreSQL, MySQL, Firebase, and MongoDB, as well as using Docker for container orchestration.</p>
   </li>
   <li>
     <p dir="auto"><g-emoji class="g-emoji" alias="electric_plug" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f50c.png">🔌</g-emoji> Experienced in developing and consuming REST and GraphQL APIs, managed and tested with Postman.</p>
